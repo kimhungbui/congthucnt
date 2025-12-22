@@ -1,0 +1,66 @@
+<style>
+  .floating-contact {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .floating-contact a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 14px 16px;
+    border-radius: 16px;
+    font-weight: 600;
+    font-size: 12px;
+    text-decoration: none;
+    color: #ffffff;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  }
+
+  .floating-call {
+    background-color: #34C759;
+  }
+
+  .floating-zalo {
+    background-color: #0068ff;
+  }
+
+  .floating-contact img {
+    width: 28px;
+    height: 28px;
+    display: block;
+  }
+
+  .phone-icon {
+    font-size: 26px;
+    line-height: 1;
+  }
+
+  .floating-contact a:hover {
+    opacity: 0.9;
+  }
+</style>
+
+<div class="floating-contact">
+  <a class="floating-call" href="tel:0703502938" aria-label="Gọi điện">
+    <span class="phone-icon">📞</span>
+    <span>GỌI NGAY</span>
+  </a>
+
+  <a
+    class="floating-zalo"
+    href="https://zalo.me/0703502938"
+    target="_blank" 
+    rel="noopener"
+    aria-label="Chat Zalo"
+  >
+    <img src="images/zalo.png" alt="Zalo">
+    <span>ZALO</span>
+  </a>
+</div>

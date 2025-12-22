@@ -1,0 +1,230 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$link-color: #d97706;
+
+/*-- scss:rules --*/
+
+.application-exercise {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #a8a8a8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/application-exercise.png");
+}
+
+.application-exercise:before {
+  content: "Application exercise: ";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  color: #d97706;
+}
+
+
+.slides {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.slides:before {
+  content: "\f108";
+  font-family: FontAwesome;
+  color: #374151;
+  left: 5px;
+  position: absolute;
+}
+
+
+.reading {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/book.png");
+}
+.reading:before {
+  content: "Reading: ";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  color: #92400e;
+}
+.reading ul li {
+  list-style-type: square;
+}
+
+.slide-deck {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #80D4E6;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/slide-deck.png");
+}
+
+.source {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.source:before {
+  content: "\f1c9";
+  font-family: FontAwesome;
+  color: #6b7280;
+  left: 5px;
+  position: absolute;
+}
+
+.guest-lecture {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt dotted #a8a8a8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/microphone.png");
+}
+
+.video {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.video:before {
+  content: "\f16a";
+  font-family: FontAwesome;
+  color: #b91c1c;
+  left: 5px;
+  position: absolute;
+}
+
+
+.lab{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #FFD748;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/lab.png");
+}
+
+.homework{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #F26BAA;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/hw.png");
+}
+
+.instructions {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.instructions:before {
+  content: "\f15c";
+  font-family: FontAwesome;
+  color: #374151;
+  left: 5px;
+  position: absolute;
+}
+
+.starter {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.starter:before {
+  content: "\f09b";
+  font-family: FontAwesome;
+  color: #374151;
+  left: 5px;
+  position: absolute;
+}
+
+
+.tutorial{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/tutorial.png");
+}
+
+
+.exam{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/exam.png");
+}
+
+
+.rstudio-cloud {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("style/icons/cloud.png");
+}
+.rstudio-cloud:before {
+  content: "RStudio Cloud: ";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  color: #A7D5E8;
+}
+
+
+/* ================================
+   Construction-style Light Navbar
+   ================================ */
+
+.navbar {
+  background-color: #f9fafb;
+  border-bottom: 3px solid #f59e0b;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #1f2933;
+  font-weight: 600;
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+  color: #d97706;
+}
+
+.navbar-brand {
+  color: #1f2933;
+  font-weight: 700;
+}
+
+.navbar-brand:hover {
+  color: #d97706;
+}
+
+/* Footer */
+
+.page-footer {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+.page-footer a {
+  color: #f59e0b;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.page-footer a:hover {
+  color: #fbbf24;
+  text-decoration: underline;
+}
