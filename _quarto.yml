@@ -117,6 +117,9 @@ format:
     include-after-body:
       - include/floating-contact.html
 
-freeze: auto
+execute:
+  freeze: true
+  enabled: false
 
+  
 editor: visual
