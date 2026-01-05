@@ -1,30 +1,54 @@
 ---
-title: "Pedagogy"
+title: "Giá Cát San lấp"
+author: "Công Thức Nha Trang"
+format: html
 ---
 
-## Course design
+## Tìm hiểu về Cát San lấp
 
-The following resources describe the pedagogy used in designing and teaching a course with the materials provided in this resources.
+Cát san lấp là một thành phần không thể thiếu trong xây dựng, đóng vai trò làm **lớp đệm kỹ thuật** cho các vùng nền đất yếu. Đây là giải pháp thay thế hiệu quả cho các loại địa tầng kém ổn định như đất sét nhão, đất cát pha hoặc than bùn.
 
-> Mine Çetinkaya-Rundel & Victoria Ellison.
-> A fresh look at introductory data science, *Journal of Statistics Education*.
-> [doi.org/10.1080/10691898.2020.1804497](https://doi.org/10.1080/10691898.2020.1804497).
+### Đặc tính kỹ thuật
 
-> Talk: The art and science of teaching data science [\[Slides\]](https://speakerdeck.com/minecr/the-art-and-science-of-teaching-data-science-university-of-glasgow)
+-   **Phạm vi ứng dụng:** Thường được sử dụng khi lớp đất yếu có độ dày dưới **3 mét**.
+-   **Đặc điểm nhận dạng:** Cát có màu đen hoặc xám, kết cấu hạt không đồng nhất (thành phần hỗn tạp).
+-   **Khả năng chịu lực:** Để tăng cường độ cứng cho móng công trình, cát san lấp thường được phối trộn cùng các vật liệu khác như đá, xà bần hoặc gạch vỡ.
 
-> Talk: Data Science in a Box [\[Slides\]](https://speakerdeck.com/minecr/data-science-in-a-box) [\[Video\]](https://www.youtube.com/watch?v=tYGLYdeFJMc)
+------------------------------------------------------------------------
 
-> Talk: Let them eat cake (first)!
-> [\[Slides\]](https://speakerdeck.com/minecr/let-them-eat-cake-first) [\[Video\]](https://www.youtube.com/embed/RsVOrpXAPXo?start=1009)
+## Bảng báo giá Vật liệu Xây dựng tại Nha Trang
 
-## Teaching the tidyverse
+**Công Thức** xin gửi đến quý khách hàng bảng giá vật tư cập nhật mới nhất. Chúng tôi cam kết tỉ lệ tạp chất luôn được kiểm soát **dưới 20%**.
 
-The following four part blog post series offers recommendations and tips for teaching the tidyverse in 2020.
+| STT | Tên vật liệu xây dựng              | Đơn vị | Đơn giá (Đã có VAT) |
+|:---:|:-----------------------------------|:------:|--------------------:|
+|  1  | Cát san lấp (Báo giá theo khu vực) |   m3   |             140.000 |
+|  2  | Cát xây tô hạt mịn                 |   m3   |             230.000 |
+|  3  | Cát xây tô hạt to                  |   m3   |             270.000 |
+|  4  | Cát bê tông vàng                   |   m3   |             340.000 |
+|  5  | Đá 1x2 (Đen)                       |   m3   |             270.000 |
+|  6  | Đá 1x2 (Xanh)                      |   m3   |             350.000 |
+|  7  | Đá Mi Sàng                         |   m3   |             210.000 |
+|  8  | Đá Mi Bụi                          |   m3   |             200.000 |
+|  9  | Đá 0x4 (Xám)                       |   m3   |             230.000 |
+| 10  | Đá 0x4 (Đen)                       |   m3   |             200.000 |
+| 11  | Đá 4x6                             |   m3   |             290.000 |
+| 12  | Xà bần + Đất (không VAT)           |   Xe   |             600.000 |
 
-> [Part 1: Getting started](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-1-getting-started/)
+::: callout-important
+### Chính sách bán hàng & Giao nhận
 
-> [Part 2: Data visualisation](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-2-data-visualisation/)
+-   **Giá cả thị trường:** Đơn giá vật tư có thể biến động theo thời điểm. Quý khách vui lòng liên hệ trực tiếp Hotline để nhận báo giá chính xác nhất tại thời điểm đặt hàng.
+-   **Bao gồm thuế:** Đơn giá trên đã bao gồm thuế **VAT (10%)**.
+-   **Vận chuyển:** Giá đã bao gồm chi phí vận chuyển tận chân công trình trong khu vực Nha Trang.
+:::
 
-> [Part 3: Data wrangling and tidying](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-3-data-wrangling-and-tidying/)
+------------------------------------------------------------------------
 
-> [Part 4: When to purrr?](https://education.rstudio.com/blog/2020/07/teaching-the-tidyverse-in-2020-part-4-when-to-purrr/)
+## Tại sao nên chọn nguồn cát từ Công Thức?
+
+1.  **Đảm bảo chất lượng:** Tỉ lệ tạp chất thấp, hỗ trợ tối đa khả năng chịu lực cho nền móng.
+2.  **Tiến độ nhanh chóng:** Hệ thống vận tải sẵn sàng giao hàng ngay trong ngày, đảm bảo tiến độ thi công.
+3.  **Giá cả minh bạch:** Cung cấp thông tin thị trường trung thực, giúp khách hàng tối ưu chi phí đầu tư.
+
+> **Công Thức – Giải pháp nền móng vững chắc cho mọi công trình tại Khánh Hòa.**

@@ -211,20 +211,33 @@ $link-color: #d97706;
   color: #d97706;
 }
 
-/* Footer */
+/*-- scss:rules --*/
 
-.page-footer {
-  background-color: #111827;
-  color: #e5e7eb;
+/* Adaptive Footer (Syncs with Light/Dark Mode) */
+.nav-footer {
+  /* Inherits background and text color from the current theme mode */
+  background-color: transparent !important; 
+  border-top: 2px solid #f59e0b; /* Amber construction-style accent */
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
-.page-footer a {
-  color: #f59e0b;
-  font-weight: 600;
+/* Footer Links - Adaptive to Amber */
+.nav-footer a {
+  color: #d97706 !important; /* Your $link-color */
   text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s ease-in-out;
 }
 
-.page-footer a:hover {
-  color: #fbbf24;
+.nav-footer a:hover {
+  color: #b45309 !important; /* Slightly darker amber on hover */
   text-decoration: underline;
+}
+
+/* Ensure the text is readable in both modes */
+.nav-footer-left, 
+.nav-footer-right, 
+.nav-footer-center {
+  opacity: 0.9; /* Softens the text slightly for a professional look */
 }

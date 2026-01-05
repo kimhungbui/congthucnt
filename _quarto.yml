@@ -11,8 +11,9 @@ website:
   site-url: "https://datasciencebox.org/"
   
   repo-url: https://github.com/rstudio-education/datascience-box
-  repo-actions: [edit, issue]
+  repo-actions: none
 
+  
   open-graph: true
   twitter-card:
     creator: "@minebocek"
@@ -20,7 +21,7 @@ website:
 
   page-footer:
     background: "#A7D5E8"
-    left: "This page is built with Quarto."
+    left: "This page is built by Kim Hung Bui. [kimhungbuiwork@gmail.com](mailto:kimhungbuiwork@gmail.com)"
     center:
       - text: |
           **DỊCH VỤ XÂY DỰNG CÔNG THỨC**  
@@ -51,12 +52,12 @@ website:
         href: index.qmd
       - text: "Đập phá – Tháo dỡ"
         href: hello.qmd
-      - text: "Thu mua xác nhà, xưởng"
-        href: content.qmd
+      # - text: "Thu mua xác nhà, xưởng"
+      #   href: content.qmd
       - text: "Đào móng – San lấp"
         href: design.qmd
-      - text: "Cải tạo – Sửa chữa"
-        href: infrastructure.qmd
+      # - text: "Cải tạo – Sửa chữa"
+      #   href: infrastructure.qmd
       - text: "Liên hệ"
         href: lien-he.qmd
 
@@ -110,6 +111,8 @@ format:
       light: [cosmo, style/dsbox.scss]
       dark: [cosmo, style/dsbox.scss, style/dark.scss]
     toc: true
+    toc-title: "Nội dung trang"  # Thay thế "On this page" tại đây
+    toc-location: right
     code-copy: true
     code-overflow: wrap
     mainfont: "Roboto"

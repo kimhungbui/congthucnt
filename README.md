@@ -2,5 +2,5 @@
 
 
 - [x] homepage
-- [ ] hosting
-- [ ]
+- [x] hosting
+- [ ] complete detail

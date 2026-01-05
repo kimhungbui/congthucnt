@@ -1,7 +1,67 @@
 ---
-title: "Course design"
-editor: visual
+title: "Dịch vụ San lấp Mặt bằng Chuyên nghiệp - Công Thức"
+author: "Công Thức Nha Trang"
+format: html
 ---
 
-Want some resources for learning more about teaching with Data Science in a Box or need a 11 or 15-week term schedule?
-You've come to the right place.
+## Giới thiệu Dịch vụ
+**Công Thức** tự hào là đơn vị hàng đầu tại Nha Trang chuyên cung cấp giải pháp san lấp mặt bằng trọn gói. Với hệ thống xe cơ giới hiện đại và đội ngũ kỹ thuật giàu kinh nghiệm, chúng tôi cam kết tối ưu hóa thời gian thi công, đảm bảo tiến độ và chất lượng kỹ thuật cao nhất cho mọi dự án.
+
+---
+
+## Bảng báo giá Vật tư & San lấp (Cập nhật mới nhất)
+
+Dưới đây là đơn giá tham khảo cho các loại vật liệu xây dựng và dịch vụ đi kèm. Giá đã bao gồm thuế **VAT**.
+
+| STT | Tên vật liệu / Dịch vụ | Đơn vị | Đơn giá (VNĐ) |
+|:---:|:---|:---:|---:|
+| 1 | Cát san lấp (Theo khu vực) | m3 | 140.000 |
+| 2 | Cát xây tô hạt mịn | m3 | 230.000 |
+| 3 | Cát xây tô hạt to | m3 | 270.000 |
+| 4 | Cát bê tông vàng | m3 | 340.000 |
+| 5 | Đá 1x2 (Đen) | m3 | 270.000 |
+| 6 | Đá 1x2 (Xanh) | m3 | 350.000 |
+| 7 | Đá Mi Sàng | m3 | 210.000 |
+| 8 | Đá Mi Bụi | m3 | 200.000 |
+| 9 | Đá 0x4 (Xám) | m3 | 230.000 |
+| 10 | Đá 0x4 (Đen) | m3 | 200.000 |
+| 11 | Xà bần | Xe | 600.000 |
+| 12 | Dịch vụ phá dỡ | - | Liên hệ |
+| 13 | Xúc ủi & Vận chuyển xà bần | - | Giá ưu đãi |
+
+---
+
+## Quy trình triển khai San lấp tại Nha Trang
+
+Để đảm bảo tính minh bạch và chuẩn xác, **Công Thức** áp dụng quy trình 3 giai đoạn chặt chẽ:
+
+### 1. Khảo sát & Thiết kế
+* Xác định chính xác vị trí và tọa độ khu vực cần thi công.
+* Đội ngũ kỹ thuật tiến hành khảo sát địa hình thực tế và khu vực dân cư xung quanh.
+* Lập bản vẽ thiết kế san lấp chi tiết theo mục đích sử dụng của khách hàng.
+
+### 2. Công tác Chuẩn bị
+* Tập kết nguyên vật liệu gần vị trí thi công để tối ưu thời gian di chuyển.
+* Thiết lập lán trại cho công nhân, đảm bảo đầy đủ điện nước và thông tin liên lạc.
+* Triển khai phương án bảo vệ tài sản và dọn dẹp mặt bằng trước khi thi công.
+* Thực hiện các thủ tục pháp lý: Xin giấy phép xây dựng và thông báo tạm trú/an ninh với chính quyền địa phương.
+
+### 3. Thi công & Hoàn thiện
+* Xây dựng đường dẫn chuyên dụng cho xe cơ giới vào bãi tập kết.
+* Tiến hành đổ vật liệu và lu lèn theo đúng tiêu chuẩn kỹ thuật.
+
+---
+
+## Cam kết từ Công Thức
+
+::: {.callout-tip}
+### Uy tín tạo nên thương hiệu
+1. **Phản hồi nhanh:** Sẵn sàng cung ứng vật tư và thi công ngay trong ngày.
+2. **Minh bạch:** Hoàn tiền 100% nếu sản phẩm giao không đúng quy cách hoặc thiếu hụt số lượng.
+3. **Giá thành:** Báo giá luôn đi kèm xác nhận và đúng theo giá thị trường, không phát sinh chi phí ẩn.
+4. **Chất lượng:** Đảm bảo mặt bằng sau san lấp đạt độ nén và độ phẳng đúng yêu cầu kỹ thuật.
+:::
+
+---
+
+> **Quý khách cần tư vấn giải pháp san lấp tối ưu cho công trình của mình?** > Liên hệ ngay với **Công Thức** để nhận báo giá chi tiết và khảo sát miễn phí!
