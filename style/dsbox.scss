@@ -241,3 +241,74 @@ $link-color: #d97706;
 .nav-footer-center {
   opacity: 0.9; /* Softens the text slightly for a professional look */
 }
+
+/*-- scss:rules --*/
+
+/* Construction Modern Tabset Styling */
+.panel-tabset {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+  margin-bottom: 2rem;
+}
+
+.nav-tabs {
+  background-color: #f3f4f6;
+  border-bottom: 3px solid #f59e0b; /* Đường kẻ Amber đậm chất xây dựng */
+  gap: 5px;
+  padding: 10px 10px 0 10px;
+}
+
+.nav-tabs .nav-item .nav-link {
+  border: none !important;
+  border-radius: 8px 8px 0 0 !important;
+  color: #4b5563 !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  padding: 12px 20px !important;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Tab đang hoạt động (Active) */
+.nav-tabs .nav-item .nav-link.active {
+  background-color: #f59e0b !important; /* Màu Amber thương hiệu */
+  color: white !important;
+  box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Hiệu ứng khi di chuột qua tab (Hover) */
+.nav-tabs .nav-item .nav-link:hover:not(.active) {
+  background-color: #ffedd5;
+  color: #d97706 !important;
+}
+
+/* Nội dung bên trong Tab */
+.tab-content {
+  padding: 2rem !important;
+  line-height: 1.7;
+}
+
+.tab-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.tab-content ul li {
+  padding-left: 1.5rem;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+/* Icon dấu tích cho danh sách trong tab */
+.tab-content ul li::before {
+  content: "\f058"; /* FontAwesome Check Circle */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  color: #f59e0b;
+}

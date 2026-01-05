@@ -34,7 +34,7 @@ website:
 
   navbar:
     background: "#A7D5E8"
-    logo: "images/dsbox.png"
+    logo: "images/logo-black.svg"
     align: center
     title: false
     collapse-below: lg
@@ -51,13 +51,13 @@ website:
       - text: "Trang chủ"
         href: index.qmd
       - text: "Đập phá – Tháo dỡ"
-        href: hello.qmd
-      # - text: "Thu mua xác nhà, xưởng"
-      #   href: content.qmd
+        href: dap-pha-thao-do.qmd
       - text: "Đào móng – San lấp"
-        href: design.qmd
-      # - text: "Cải tạo – Sửa chữa"
-      #   href: infrastructure.qmd
+        href: dao-mong-san-lap.qmd
+      - text: "Cải tạo – Sửa chữa"
+        href: cai-tao-sua-chua.qmd
+      - text: "Thu mua xác nhà, xưởng"
+        href: thu-mua-xac-nha.qmd
       - text: "Liên hệ"
         href: lien-he.qmd
 
@@ -79,24 +79,24 @@ website:
       title: "Content"
       contents:
         - href: content.qmd
-        - href: 02-hello-world.qmd
-        - href: 02-exploring-data.qmd
-        - href: 02-ethics.qmd
-        - href: 02-making-rigorous-conclusions.qmd
-        - href: 02-looking-further.qmd
-        - href: 02-interactive-tutorials.qmd
-        - href: 02-project.qmd
-        - href: 02-exams.qmd
+        # - href: 02-hello-world.qmd
+        # - href: 02-exploring-data.qmd
+        # - href: 02-ethics.qmd
+        # - href: 02-making-rigorous-conclusions.qmd
+        # - href: 02-looking-further.qmd
+        # - href: 02-interactive-tutorials.qmd
+        # - href: 02-project.qmd
+        # - href: 02-exams.qmd
 
-    - id: infrastructure
-      title: "Infrastructure"
+    - id: cai-tao-sua-chua
+      title: "cai-tao-sua-chua"
       contents:
-        - href: infrastructure.qmd
-        - href: 03-access-r.qmd
-        - href: 03-version-control.qmd
-        - href: 03-discussion.qmd
-        - href: 03-sharing.qmd
-        - href: 03-alternative-setups.qmd
+        - href: cai-tao-sua-chua.qmd
+        # - href: 03-access-r.qmd
+        # - href: 03-version-control.qmd
+        # - href: 03-discussion.qmd
+        # - href: 03-sharing.qmd
+        # - href: 03-alternative-setups.qmd
 
     - id: design
       align: left
